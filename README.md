@@ -25,5 +25,5 @@ git config --global user.name "your name"
 git config --global user.email "your email"
 git add .
 git commit -m "your commit name"
-git remote add origin git@github.com:revollllt/gitconfigmentor.git
+git remote add origin git@github.com:your_github_name/your_repository_name.git
 git push --set-upstream origin master 
